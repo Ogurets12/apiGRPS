@@ -1,4 +1,4 @@
-module apiGRPS
+module github.com/Ogurets12/apiGRPS
 
 go 1.22
 
